@@ -1,0 +1,7 @@
+pytest==8.3.4
+requests==2.32.3
+playwright==1.49.1
+allure-pytest==2.13.5
+pydantic==2.10.3
+faker==33.1.0
+python-dotenv==1.0.1
